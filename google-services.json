@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220958187372",
+    "firebase_url": "https://fir-xamarin-142d2-default-rtdb.firebaseio.com",
+    "project_id": "fir-xamarin-142d2",
+    "storage_bucket": "fir-xamarin-142d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220958187372:android:028b7581a0af1d4052dd49",
+        "android_client_info": {
+          "package_name": "com.companyname.firebasexamarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220958187372-evji09ep2po97ke4hpi3hh3g5tkfh3sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzD4BJqWkql7g59YP85Y8jPeJCPhLX2Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220958187372-evji09ep2po97ke4hpi3hh3g5tkfh3sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
